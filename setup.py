@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Topsis-Raghav-102203754",
+    name="Topsis-Raghav-102203745",
     version="0.1.1",
     author="Raghav Jindal",
     author_email="rjindal_be22@thapar.edu",
